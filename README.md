@@ -42,6 +42,20 @@ Neste projeto, é possível ler um arquivo de dados e transformá-lo em um dashb
 
 ---
 
+## **Projeto Dashboard Automático**
+*   Este é projeto para Logística, onde o funcionário poderia utilizar suas planilhas diárias para analisar de forma visual a Performance de Entrega dos Pedidos.
+
+*   Resumo das atividades: Com ajuda do Gemini, foram gerados dados e posteriormente exportados em um arquivo CSV. Com os dados inputados, esse pequeno sistema gera um dashboard pré definido com as informações do arquivo. Tudo foi realizado com a ajuda do Gemini AI, Google AI Studio e Colab. Os comentários podenser encontrados no código. Segue abaixo o passo a passo da construção do projeto  
+    *   Definição de Instruções para o Gemini, definindo como ele deveria dar resposta. (Aqui eu determino, o perfil da situação e as condições para que elas devam acontecer) 
+    *   Solicitação de geração de dados após as instruções
+    *   Exportação dos resultados para CSV
+    *   Criação de código para carregamento, processamento e leitura do arquivo CSV
+    *   Execução do código com solicitação do input manual da url ou caminho do arquivo
+    *   Processamento do arquivo
+    *   Criação automática de Dashboard com componentes Pré-definidos.
+
+    Obs: O mais irônico é que não sei programar em Python, mas tudo aconteceu como se o Gemini pegasse na minha para ensinar.
+
 **Encontre-me em:**
 
 *   [LinkedIn](https://www.linkedin.com/in/ricopeterson/)
