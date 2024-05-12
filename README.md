@@ -21,9 +21,9 @@ Sinta-se à vontade para se conectar comigo, trocar ideias e embarcarmos juntos 
     *   SQLServer, MySQL, DAX, M
     *   ERPs, CRMs, PowerBI, Power Query  
 
-## **Projetos em Destaque**
+## **Projetos em Destaque**   [Acesse aqui](https://github.com/ricopgm/Projeto_Imersao_IA.git)
 
-*   Projeto Imersao Gemini AI(Link do Projeto) 
+*   Projeto Imersao Gemini AI(Link do Projeto)    
 Neste projeto, é possível ler um arquivo de dados e transformá-lo em um dashboard.
 
 ## **Vamos construir algo incrível!**
@@ -42,7 +42,7 @@ Neste projeto, é possível ler um arquivo de dados e transformá-lo em um dashb
 
 ---
 
-## **Projeto Dashboard Automático**
+## **Projeto Dashboard Automático**     [Acesse aqui](https://github.com/ricopgm/Projeto_Imersao_IA.git)
 *   Este é projeto para Logística, onde o funcionário poderia utilizar suas planilhas diárias para analisar de forma visual a Performance de Entrega dos Pedidos.
 
 *   Resumo das atividades: Com ajuda do Gemini, foram gerados dados e posteriormente exportados em um arquivo CSV. Com os dados inputados, esse pequeno sistema gera um dashboard pré definido com as informações do arquivo. Tudo foi realizado com a ajuda do Gemini AI, Google AI Studio e Colab. Os comentários podenser encontrados no código. Segue abaixo o passo a passo da construção do projeto  
@@ -60,3 +60,4 @@ Neste projeto, é possível ler um arquivo de dados e transformá-lo em um dashb
 
 *   [LinkedIn](https://www.linkedin.com/in/ricopeterson/)
 *   [Instagram](@cadicogomes)
+*   [Link do Projeto](https://github.com/ricopgm/Projeto_Imersao_IA.git)
