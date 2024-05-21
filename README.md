@@ -56,8 +56,8 @@ Neste projeto, é possível ler um arquivo de dados e transformá-lo em um dashb
 
 ## **Modificações da Versão 2:**
 
-   *   Digite os valores de logística solicitados, como por exemplo, "quantidade de pedidos", "entregas no prazo" entre outras informações, e obtenha um histórico de suas respostas e um gráfico de barras para visualizar as suas coletadas de uma forma mais visual.
-   *   Interaja com o chatbot, ou pressione sair para obter de forma detalhada e formatada, o histórico de conversa gerado.
+   *   Digite os valores de logística solicitados, como por exemplo, "quantidade de pedidos", "entregas no prazo" entre outras informações, e obtenha o histórico de suas respostas e um gráfico de barras para visualizar as suas informções coletadas de uma forma mais visual.
+   *   Interaja com o chatbot, ou digite "sair" para obter de forma detalhada e formatada, o histórico de conversa gerado.
 
 
     Obs: O mais irônico é que não sei programar em Python, mas tudo aconteceu como se o Gemini pegasse na minha mão para ensinar.
