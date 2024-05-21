@@ -43,7 +43,7 @@ Neste projeto, é possível ler um arquivo de dados e transformá-lo em um dashb
 ---
 
 ## **Projeto Dashboard Automático**     [Acesse aqui](https://github.com/ricopgm/Projeto_Imersao_IA.git)
-*   Este é projeto para Logística, onde o funcionário poderia utilizar suas planilhas diárias para analisar de forma visual a Performance de Entrega dos Pedidos.
+*   Este é um projeto com foco em Logística, onde o funcionário poderia utilizar suas planilhas diárias para analisar de forma visual a Performance de Entrega dos Pedidos.
 
 *   Resumo das atividades: Com ajuda do Gemini, foram gerados dados e posteriormente exportados em um arquivo CSV. Com os dados inputados, esse pequeno sistema gera um dashboard pré definido com as informações do arquivo. Tudo foi realizado com a ajuda do Gemini AI, Google AI Studio e Colab. Os comentários podenser encontrados no código. Segue abaixo o passo a passo da construção do projeto  
     *   Definição de Instruções para o Gemini, definindo como ele deveria dar resposta. (Aqui eu determino, o perfil da situação e as condições para que elas devam acontecer) 
@@ -54,7 +54,13 @@ Neste projeto, é possível ler um arquivo de dados e transformá-lo em um dashb
     *   Processamento do arquivo
     *   Criação automática de Dashboard com componentes Pré-definidos.
 
-    Obs: O mais irônico é que não sei programar em Python, mas tudo aconteceu como se o Gemini pegasse na minha para ensinar.
+## **Modificações da Versão 2:**
+
+   *   Digite os valores de logística solicitados, como por exemplo, "quantidade de pedidos", "entregas no prazo" entre outras informações, e obtenha um histórico de suas respostas e um gráfico de barras para visualizar as suas coletadas de uma forma mais visual.
+   *   Interaja com o chatbot, ou pressione sair para obter de forma detalhada e formatada, o histórico de conversa gerado.
+
+
+    Obs: O mais irônico é que não sei programar em Python, mas tudo aconteceu como se o Gemini pegasse na minha mão para ensinar.
 
 **Encontre-me em:**
 
